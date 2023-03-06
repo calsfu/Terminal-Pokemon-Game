@@ -1,7 +1,5 @@
-# pa4-template
-
-## How to play
-# Description
+# How to play
+## Description
 You will lose health when moving and when fighting gyms. Health can be recovered in pokemon centers. Potions cost money, which can be gained by moving. The goal is to defeat all of the gyms on the map.
 # Commands
 m ID x y
