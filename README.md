@@ -1,7 +1,7 @@
 # How to play
 ## Description
 You will lose health when moving and when fighting gyms. Health can be recovered in pokemon centers. Potions cost money, which can be gained by moving. The goal is to defeat all of the gyms on the map.
-# Commands
+## Commands
 m ID x y
   "move": command Trainer ID to move to location (x, y)
 c ID1 ID2
@@ -26,7 +26,9 @@ n TYPE ID X Y- create a new object with the specified TYPE, ID number, (X, Y) lo
     g – PokemonGYM
     t – Trainer
     w – WildPokemon
-# How to win
+## How to win
 There are two trainers that you control. The game ends when both of the trainers die or all of the gyms are beaten. 
-#Pokemon
+## Pokemon
 The two pokemon spawn and will remain in there spot until a trainer reaches a certain proximty. In this range, the pokemon will begin to follow the trainer. Pokemon are faster than trainers, so the trainer must either defeat it or hide in a gym/center. When a pokemon is following a trainer, a they will deal damage to each other. A trainers damage is based on their experience points. When a trainer kills a pokemon, they will gain experience. 
+## How to run
+Use make makefile4.txt to compile. Run with ./PA4
